@@ -1,0 +1,13 @@
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\bin\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.deps.json
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\bin\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.runtimeconfig.json
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\bin\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.runtimeconfig.dev.json
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\bin\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.dll
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\bin\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.pdb
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\obj\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.csproj.CoreCompileInputs.cache
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\obj\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.RazorAssemblyInfo.cache
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\obj\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.RazorAssemblyInfo.cs
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\obj\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.AssemblyInfoInputs.cache
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\obj\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.AssemblyInfo.cs
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\obj\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.RazorTargetAssemblyInfo.cache
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\obj\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.dll
+C:\Users\Abhay\source\repos\WebAPICore2_1VueCLI3\WebAPICore2_1VueCLI3\obj\Debug\netcoreapp2.1\WebAPICore2_1VueCLI3.pdb
